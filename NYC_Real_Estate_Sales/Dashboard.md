@@ -1,0 +1,1 @@
+The dashboard was published to Tableau Public which can be accessed through [this link]([url](https://public.tableau.com/views/NYCRealEstateSalesDashboard/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)https://public.tableau.com/views/NYCRealEstateSalesDashboard/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link).
