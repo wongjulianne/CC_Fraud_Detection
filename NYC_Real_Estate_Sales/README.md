@@ -8,5 +8,5 @@ Some considerations made when cleaning the data were i) the removal of sales wit
 ii)the filling of missing values. 
 The resulting dashboard is an interactive tool to track the real estate sales and revenue for New York over different time frames and in different boroughs.
 
-A preview of the dashboard can be seen below:
+A preview of the dashboard can be seen below with the full dashboard accessible through [this link](https://public.tableau.com/views/NYCRealEstateSalesDashboard/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link):
 ![preview](Dashboard_Preview.JPG)
