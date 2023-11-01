@@ -9,4 +9,4 @@ ii)the filling of missing values.
 The resulting dashboard is an interactive tool to track the real estate sales and revenue for New York over different time frames and in different boroughs.
 
 A preview of the dashboard can be seen below:
-![preview](NYC_Real_Estate_Sales/Dashboard_Preview.JPG)
+![preview](Dashboard_Preview.JPG)
