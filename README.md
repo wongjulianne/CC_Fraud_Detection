@@ -1,4 +1,4 @@
-# ds_projects
+# Introduction
 Hi everyone, this is my portfolio where I upload my various data analysis, visualization, and machine learning projects. 
 
 A little about me, I am a recent graduate from the University of Waterloo where I majored in Biotechnology and Economics. I have professional experience in Sales and Marketing data analysis, but I am looking to shift into data science and machine learning. Follow along my journey as I explore more methods in data and take on passion projects. 
