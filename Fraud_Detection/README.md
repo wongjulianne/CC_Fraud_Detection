@@ -1,4 +1,4 @@
-# CC_Fraud_Detection
+# Overview
 This project uses categorical data analysis and machine learning methods in Python to predict fraudulent credit card transactions. 
 
 The dataset was obtained from Kaggle at the link below:
